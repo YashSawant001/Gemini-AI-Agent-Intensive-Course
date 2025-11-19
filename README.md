@@ -27,9 +27,3 @@ To run these projects locally, ensure you have Python 3.9+ installed and configu
 **Code:** [capstone_project/capstone_concierge_agent.py](capstone_project/capstone_concierge_agent.py)
 
 ---
-
-## Course Assignments
-
-The remaining course assignments (Day 1a, Day 1b code) are archived within the following folders:
-* `day_1b_code/`
-* `my_agent/`
